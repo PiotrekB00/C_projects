@@ -1,9 +1,3 @@
-//Projekt nr 3 - Kalkulator ONP liczb zespolonych
-//Piotr Barabasz
-//nr indeksu 255294
-//wersja 21.01.2021
-//grupa M10-31i
-
 #define _CRT_SECURE_NO_WARNINGS	
 #include <stdio.h>
 #include <stdlib.h>
