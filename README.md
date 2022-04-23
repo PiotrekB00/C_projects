@@ -1,6 +1,6 @@
 # C_projects
 
-That is my projects in C from University.
+Those are my projects in C from University.
 
 
 1. Signal processing - Przetwarzanie sygnalow
