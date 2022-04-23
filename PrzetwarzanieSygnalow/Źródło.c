@@ -1,7 +1,3 @@
-//Projekt nr 1 - Przetwarzanie sygnalow
-//Piotr Barabasz
-//wersja 19.11.2020
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
